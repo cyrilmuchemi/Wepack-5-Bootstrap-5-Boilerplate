@@ -1,1 +1,1 @@
-This is a boostrap & Webpacl Boilerplate
+This is a boostrap & Webpack Boilerplate
